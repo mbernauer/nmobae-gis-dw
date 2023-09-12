@@ -1,0 +1,224 @@
+2023-09-05 07:43:30 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-05 07:43:30 root     INFO     tract parameter value:*
+2023-09-05 07:43:30 root     INFO     county parameter value:*
+2023-09-05 07:43:30 root     INFO     state parameter value:35
+2023-09-05 07:43:30 root     INFO     year parameter value:2015
+2023-09-05 07:43:30 root     INFO     filename parameter value:ACS5_2015_NMStateData.csv
+2023-09-05 07:43:30 root     INFO     https://api.census.gov/data/2015/acs/acs5/profile
+2023-09-05 07:43:30 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'tract:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:43:30 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:43:32 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2015/acs/acs5/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=tract%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:43:32 root     INFO     Responce Status Code:200
+2023-09-05 07:43:32 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS5_2015_NMStateData.csv.csv
+
+2023-09-05 07:43:32 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-05 07:43:35 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-05 07:43:35 root     INFO     tract parameter value:*
+2023-09-05 07:43:35 root     INFO     county parameter value:*
+2023-09-05 07:43:35 root     INFO     state parameter value:35
+2023-09-05 07:43:35 root     INFO     year parameter value:2016
+2023-09-05 07:43:35 root     INFO     filename parameter value:ACS5_2016_NMStateData.csv
+2023-09-05 07:43:35 root     INFO     https://api.census.gov/data/2016/acs/acs5/profile
+2023-09-05 07:43:35 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'tract:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:43:35 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:43:36 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2016/acs/acs5/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=tract%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:43:36 root     INFO     Responce Status Code:200
+2023-09-05 07:43:36 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS5_2016_NMStateData.csv.csv
+
+2023-09-05 07:43:36 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-05 07:43:39 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-05 07:43:39 root     INFO     tract parameter value:*
+2023-09-05 07:43:39 root     INFO     county parameter value:*
+2023-09-05 07:43:39 root     INFO     state parameter value:35
+2023-09-05 07:43:39 root     INFO     year parameter value:2017
+2023-09-05 07:43:39 root     INFO     filename parameter value:ACS5_2017_NMStateData.csv
+2023-09-05 07:43:39 root     INFO     https://api.census.gov/data/2017/acs/acs5/profile
+2023-09-05 07:43:39 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'tract:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:43:39 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:43:40 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2017/acs/acs5/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=tract%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:43:41 root     INFO     Responce Status Code:200
+2023-09-05 07:43:41 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS5_2017_NMStateData.csv.csv
+
+2023-09-05 07:43:41 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-05 07:43:43 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-05 07:43:43 root     INFO     tract parameter value:*
+2023-09-05 07:43:43 root     INFO     county parameter value:*
+2023-09-05 07:43:43 root     INFO     state parameter value:35
+2023-09-05 07:43:43 root     INFO     year parameter value:2018
+2023-09-05 07:43:43 root     INFO     filename parameter value:ACS5_2018_NMStateData.csv
+2023-09-05 07:43:43 root     INFO     https://api.census.gov/data/2018/acs/acs5/profile
+2023-09-05 07:43:43 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'tract:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:43:43 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:43:45 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2018/acs/acs5/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=tract%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:43:45 root     INFO     Responce Status Code:200
+2023-09-05 07:43:45 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS5_2018_NMStateData.csv.csv
+
+2023-09-05 07:43:45 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-05 07:43:47 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-05 07:43:47 root     INFO     tract parameter value:*
+2023-09-05 07:43:47 root     INFO     county parameter value:*
+2023-09-05 07:43:47 root     INFO     state parameter value:35
+2023-09-05 07:43:47 root     INFO     year parameter value:2019
+2023-09-05 07:43:47 root     INFO     filename parameter value:ACS5_2019_NMStateData.csv
+2023-09-05 07:43:47 root     INFO     https://api.census.gov/data/2019/acs/acs5/profile
+2023-09-05 07:43:47 root     INFO     {'get': 'NAME,DP02_0152PE,DP02_0153PE', 'for': 'tract:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:43:47 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:43:49 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2019/acs/acs5/profile?get=NAME%2CDP02_0152PE%2CDP02_0153PE&for=tract%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:43:49 root     INFO     Responce Status Code:200
+2023-09-05 07:43:49 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS5_2019_NMStateData.csv.csv
+
+2023-09-05 07:43:49 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-05 07:43:51 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-05 07:43:52 root     INFO     tract parameter value:*
+2023-09-05 07:43:52 root     INFO     county parameter value:*
+2023-09-05 07:43:52 root     INFO     state parameter value:35
+2023-09-05 07:43:52 root     INFO     year parameter value:2020
+2023-09-05 07:43:52 root     INFO     filename parameter value:ACS5_2020_NMStateData.csv
+2023-09-05 07:43:52 root     INFO     https://api.census.gov/data/2020/acs/acs5/profile
+2023-09-05 07:43:52 root     INFO     {'get': 'NAME,DP02_0153PE,DP02_0154PE', 'for': 'tract:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:43:52 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:43:53 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2020/acs/acs5/profile?get=NAME%2CDP02_0153PE%2CDP02_0154PE&for=tract%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:43:53 root     INFO     Responce Status Code:200
+2023-09-05 07:43:53 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS5_2020_NMStateData.csv.csv
+
+2023-09-05 07:43:53 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-05 07:43:56 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-05 07:43:56 root     INFO     tract parameter value:*
+2023-09-05 07:43:56 root     INFO     county parameter value:*
+2023-09-05 07:43:56 root     INFO     state parameter value:35
+2023-09-05 07:43:56 root     INFO     year parameter value:2021
+2023-09-05 07:43:56 root     INFO     filename parameter value:ACS5_2021_NMStateData.csv
+2023-09-05 07:43:56 root     INFO     https://api.census.gov/data/2021/acs/acs5/profile
+2023-09-05 07:43:56 root     INFO     {'get': 'NAME,DP02_0153PE,DP02_0154PE', 'for': 'tract:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:43:56 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:43:57 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2021/acs/acs5/profile?get=NAME%2CDP02_0153PE%2CDP02_0154PE&for=tract%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:43:57 root     INFO     Responce Status Code:200
+2023-09-05 07:43:57 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS5_2021_NMStateData.csv.csv
+
+2023-09-05 07:43:57 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-05 07:44:00 root     INFO     --------------------Fetching Census Data For ACS1 Process Started--------------------
+
+2023-09-05 07:44:00 root     INFO     tract parameter value:
+2023-09-05 07:44:00 root     INFO     county parameter value:*
+2023-09-05 07:44:00 root     INFO     state parameter value:35
+2023-09-05 07:44:00 root     INFO     year parameter value:2015
+2023-09-05 07:44:00 root     INFO     filename parameter value:ACS1_2015_NMStateData.csv
+2023-09-05 07:44:00 root     INFO     https://api.census.gov/data/2015/acs/acs1/profile
+2023-09-05 07:44:00 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'county:*', 'in': 'state:35', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:44:00 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:44:01 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2015/acs/acs1/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=county%3A%2A&in=state%3A35&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:44:01 root     INFO     Responce Status Code:200
+2023-09-05 07:44:01 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS1_2015_NMStateData.csv.csv
+
+2023-09-05 07:44:01 root     INFO     --------------------Fetching Census Data For ACS1 Process Completed--------------------
+
+2023-09-05 07:44:04 root     INFO     --------------------Fetching Census Data For ACS1 Process Started--------------------
+
+2023-09-05 07:44:04 root     INFO     tract parameter value:
+2023-09-05 07:44:04 root     INFO     county parameter value:*
+2023-09-05 07:44:04 root     INFO     state parameter value:35
+2023-09-05 07:44:04 root     INFO     year parameter value:2016
+2023-09-05 07:44:04 root     INFO     filename parameter value:ACS1_2016_NMStateData.csv
+2023-09-05 07:44:04 root     INFO     https://api.census.gov/data/2016/acs/acs1/profile
+2023-09-05 07:44:04 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'county:*', 'in': 'state:35', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:44:04 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:44:05 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2016/acs/acs1/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=county%3A%2A&in=state%3A35&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:44:05 root     INFO     Responce Status Code:200
+2023-09-05 07:44:05 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS1_2016_NMStateData.csv.csv
+
+2023-09-05 07:44:05 root     INFO     --------------------Fetching Census Data For ACS1 Process Completed--------------------
+
+2023-09-05 07:44:07 root     INFO     --------------------Fetching Census Data For ACS1 Process Started--------------------
+
+2023-09-05 07:44:07 root     INFO     tract parameter value:
+2023-09-05 07:44:07 root     INFO     county parameter value:*
+2023-09-05 07:44:07 root     INFO     state parameter value:35
+2023-09-05 07:44:07 root     INFO     year parameter value:2017
+2023-09-05 07:44:07 root     INFO     filename parameter value:ACS1_2017_NMStateData.csv
+2023-09-05 07:44:07 root     INFO     https://api.census.gov/data/2017/acs/acs1/profile
+2023-09-05 07:44:07 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'county:*', 'in': 'state:35', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:44:08 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:44:09 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2017/acs/acs1/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=county%3A%2A&in=state%3A35&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:44:09 root     INFO     Responce Status Code:200
+2023-09-05 07:44:09 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS1_2017_NMStateData.csv.csv
+
+2023-09-05 07:44:09 root     INFO     --------------------Fetching Census Data For ACS1 Process Completed--------------------
+
+2023-09-05 07:44:11 root     INFO     --------------------Fetching Census Data For ACS1 Process Started--------------------
+
+2023-09-05 07:44:11 root     INFO     tract parameter value:
+2023-09-05 07:44:11 root     INFO     county parameter value:*
+2023-09-05 07:44:11 root     INFO     state parameter value:35
+2023-09-05 07:44:11 root     INFO     year parameter value:2018
+2023-09-05 07:44:11 root     INFO     filename parameter value:ACS1_2018_NMStateData.csv
+2023-09-05 07:44:11 root     INFO     https://api.census.gov/data/2018/acs/acs1/profile
+2023-09-05 07:44:11 root     INFO     {'get': 'NAME,DP02_0151PE,DP02_0152PE', 'for': 'county:*', 'in': 'state:35', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:44:11 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:44:12 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2018/acs/acs1/profile?get=NAME%2CDP02_0151PE%2CDP02_0152PE&for=county%3A%2A&in=state%3A35&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:44:12 root     INFO     Responce Status Code:200
+2023-09-05 07:44:12 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS1_2018_NMStateData.csv.csv
+
+2023-09-05 07:44:12 root     INFO     --------------------Fetching Census Data For ACS1 Process Completed--------------------
+
+2023-09-05 07:44:15 root     INFO     --------------------Fetching Census Data For ACS1 Process Started--------------------
+
+2023-09-05 07:44:15 root     INFO     tract parameter value:
+2023-09-05 07:44:15 root     INFO     county parameter value:*
+2023-09-05 07:44:15 root     INFO     state parameter value:35
+2023-09-05 07:44:15 root     INFO     year parameter value:2019
+2023-09-05 07:44:15 root     INFO     filename parameter value:ACS1_2019_NMStateData.csv
+2023-09-05 07:44:15 root     INFO     https://api.census.gov/data/2019/acs/acs1/profile
+2023-09-05 07:44:15 root     INFO     {'get': 'NAME,DP02_0152PE,DP02_0153PE', 'for': 'county:*', 'in': 'state:35', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:44:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:44:16 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2019/acs/acs1/profile?get=NAME%2CDP02_0152PE%2CDP02_0153PE&for=county%3A%2A&in=state%3A35&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:44:16 root     INFO     Responce Status Code:200
+2023-09-05 07:44:16 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS1_2019_NMStateData.csv.csv
+
+2023-09-05 07:44:16 root     INFO     --------------------Fetching Census Data For ACS1 Process Completed--------------------
+
+2023-09-05 07:44:19 root     INFO     --------------------Fetching Census Data For ACS1 Process Started--------------------
+
+2023-09-05 07:44:19 root     INFO     tract parameter value:
+2023-09-05 07:44:19 root     INFO     county parameter value:*
+2023-09-05 07:44:19 root     INFO     state parameter value:35
+2023-09-05 07:44:19 root     INFO     year parameter value:2020
+2023-09-05 07:44:19 root     INFO     filename parameter value:ACS1_2020_NMStateData.csv
+2023-09-05 07:44:19 root     INFO     https://api.census.gov/data/2020/acs/acs1/profile
+2023-09-05 07:44:19 root     INFO     {'get': 'NAME,DP02_0153PE,DP02_0154PE', 'for': 'county:*', 'in': 'state:35', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:44:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:44:20 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2020/acs/acs1/profile?get=NAME%2CDP02_0153PE%2CDP02_0154PE&for=county%3A%2A&in=state%3A35&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 404 427
+2023-09-05 07:44:20 root     INFO     Responce Status Code:404
+2023-09-05 07:44:20 root     INFO     Error Info:<!doctype html><html lang="en"><head><title>HTTP Status 404 ? Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 ? Not Found</h1></body></html>
+
+2023-09-05 07:44:20 root     INFO     --------------------Fetching Census Data For ACS1 Process Completed--------------------
+
+2023-09-05 07:44:22 root     INFO     --------------------Fetching Census Data For ACS1 Process Started--------------------
+
+2023-09-05 07:44:22 root     INFO     tract parameter value:
+2023-09-05 07:44:22 root     INFO     county parameter value:*
+2023-09-05 07:44:22 root     INFO     state parameter value:35
+2023-09-05 07:44:22 root     INFO     year parameter value:2021
+2023-09-05 07:44:22 root     INFO     filename parameter value:ACS1_2021_NMStateData.csv
+2023-09-05 07:44:22 root     INFO     https://api.census.gov/data/2021/acs/acs1/profile
+2023-09-05 07:44:22 root     INFO     {'get': 'NAME,DP02_0153PE,DP02_0154PE', 'for': 'county:*', 'in': 'state:35', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-05 07:44:22 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-05 07:44:24 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2021/acs/acs1/profile?get=NAME%2CDP02_0153PE%2CDP02_0154PE&for=county%3A%2A&in=state%3A35&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-05 07:44:24 root     INFO     Responce Status Code:200
+2023-09-05 07:44:24 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\ACS1_2021_NMStateData.csv.csv
+
+2023-09-05 07:44:24 root     INFO     --------------------Fetching Census Data For ACS1 Process Completed--------------------
+

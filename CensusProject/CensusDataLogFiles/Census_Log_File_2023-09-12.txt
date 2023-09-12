@@ -1,0 +1,126 @@
+2023-09-12 07:52:52 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-12 07:52:52 root     INFO     dataset parameter value:acs/acs5
+2023-09-12 07:52:52 root     INFO     block group parameter value:*
+2023-09-12 07:52:52 root     INFO     tract parameter value:*
+2023-09-12 07:52:52 root     INFO     county parameter value:*
+2023-09-12 07:52:52 root     INFO     state parameter value:35
+2023-09-12 07:52:52 root     INFO     year parameter value:2021
+2023-09-12 07:52:52 root     INFO     filename parameter value:2021_ACS5_BLOCK_GROUP
+2023-09-12 07:52:52 root     INFO     https://api.census.gov/data/2021/acs/acs5
+2023-09-12 07:52:52 root     INFO     {'get': 'NAME,B02001_002E,B02001_003E,B02001_004E,B02001_005E,B02001_006E,B02001_007E,B02001_008E,B02001_009E,B02001_010E,B02008_001E,B02009_001E,B02010_001E,B02011_001E,B02012_001E,B02013_001E,B03003_003E,B03003_002E,B21001_001E,B01001_025E,B01001_049E', 'for': 'block group:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-12 07:52:52 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-12 07:52:55 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2021/acs/acs5?get=NAME%2CB02001_002E%2CB02001_003E%2CB02001_004E%2CB02001_005E%2CB02001_006E%2CB02001_007E%2CB02001_008E%2CB02001_009E%2CB02001_010E%2CB02008_001E%2CB02009_001E%2CB02010_001E%2CB02011_001E%2CB02012_001E%2CB02013_001E%2CB03003_003E%2CB03003_002E%2CB21001_001E%2CB01001_025E%2CB01001_049E&for=block+group%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-12 07:52:55 root     INFO     Responce Status Code:200
+2023-09-12 07:53:14 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\2021_ACS5_BLOCK_GROUP.csv
+
+2023-09-12 07:53:14 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-12 07:53:16 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-12 07:53:16 root     INFO     dataset parameter value:acs/acs5
+2023-09-12 07:53:16 root     INFO     block group parameter value:*
+2023-09-12 07:53:16 root     INFO     tract parameter value:*
+2023-09-12 07:53:16 root     INFO     county parameter value:*
+2023-09-12 07:53:16 root     INFO     state parameter value:35
+2023-09-12 07:53:16 root     INFO     year parameter value:2020
+2023-09-12 07:53:16 root     INFO     filename parameter value:2020_ACS5_BLOCK_GROUP
+2023-09-12 07:53:16 root     INFO     https://api.census.gov/data/2020/acs/acs5
+2023-09-12 07:53:16 root     INFO     {'get': 'NAME,B02001_002E,B02001_003E,B02001_004E,B02001_005E,B02001_006E,B02001_007E,B02001_008E,B02001_009E,B02001_010E,B02008_001E,B02009_001E,B02010_001E,B02011_001E,B02012_001E,B02013_001E,B03003_003E,B03003_002E,B21001_001E,B01001_025E,B01001_049E', 'for': 'block group:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-12 07:53:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-12 07:53:19 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2020/acs/acs5?get=NAME%2CB02001_002E%2CB02001_003E%2CB02001_004E%2CB02001_005E%2CB02001_006E%2CB02001_007E%2CB02001_008E%2CB02001_009E%2CB02001_010E%2CB02008_001E%2CB02009_001E%2CB02010_001E%2CB02011_001E%2CB02012_001E%2CB02013_001E%2CB03003_003E%2CB03003_002E%2CB21001_001E%2CB01001_025E%2CB01001_049E&for=block+group%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-12 07:53:20 root     INFO     Responce Status Code:200
+2023-09-12 07:53:37 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\2020_ACS5_BLOCK_GROUP.csv
+
+2023-09-12 07:53:37 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-12 07:53:40 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-12 07:53:40 root     INFO     dataset parameter value:acs/acs5
+2023-09-12 07:53:40 root     INFO     block group parameter value:*
+2023-09-12 07:53:40 root     INFO     tract parameter value:*
+2023-09-12 07:53:40 root     INFO     county parameter value:*
+2023-09-12 07:53:40 root     INFO     state parameter value:35
+2023-09-12 07:53:40 root     INFO     year parameter value:2019
+2023-09-12 07:53:40 root     INFO     filename parameter value:2019_ACS5_BLOCK_GROUP
+2023-09-12 07:53:40 root     INFO     https://api.census.gov/data/2019/acs/acs5
+2023-09-12 07:53:40 root     INFO     {'get': 'NAME,B02001_002E,B02001_003E,B02001_004E,B02001_005E,B02001_006E,B02001_007E,B02001_008E,B02001_009E,B02001_010E,B02008_001E,B02009_001E,B02010_001E,B02011_001E,B02012_001E,B02013_001E,B03003_003E,B03003_002E,B21001_001E,B01001_025E,B01001_049E', 'for': 'block group:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-12 07:53:40 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-12 07:53:43 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2019/acs/acs5?get=NAME%2CB02001_002E%2CB02001_003E%2CB02001_004E%2CB02001_005E%2CB02001_006E%2CB02001_007E%2CB02001_008E%2CB02001_009E%2CB02001_010E%2CB02008_001E%2CB02009_001E%2CB02010_001E%2CB02011_001E%2CB02012_001E%2CB02013_001E%2CB03003_003E%2CB03003_002E%2CB21001_001E%2CB01001_025E%2CB01001_049E&for=block+group%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-12 07:53:44 root     INFO     Responce Status Code:200
+2023-09-12 07:53:59 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\2019_ACS5_BLOCK_GROUP.csv
+
+2023-09-12 07:53:59 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-12 07:54:02 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-12 07:54:02 root     INFO     dataset parameter value:acs/acs5
+2023-09-12 07:54:02 root     INFO     block group parameter value:*
+2023-09-12 07:54:02 root     INFO     tract parameter value:*
+2023-09-12 07:54:02 root     INFO     county parameter value:*
+2023-09-12 07:54:02 root     INFO     state parameter value:35
+2023-09-12 07:54:02 root     INFO     year parameter value:2018
+2023-09-12 07:54:02 root     INFO     filename parameter value:2018_ACS5_BLOCK_GROUP
+2023-09-12 07:54:02 root     INFO     https://api.census.gov/data/2018/acs/acs5
+2023-09-12 07:54:02 root     INFO     {'get': 'NAME,B02001_002E,B02001_003E,B02001_004E,B02001_005E,B02001_006E,B02001_007E,B02001_008E,B02001_009E,B02001_010E,B02008_001E,B02009_001E,B02010_001E,B02011_001E,B02012_001E,B02013_001E,B03003_003E,B03003_002E,B21001_001E,B01001_025E,B01001_049E', 'for': 'block group:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-12 07:54:02 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-12 07:54:05 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2018/acs/acs5?get=NAME%2CB02001_002E%2CB02001_003E%2CB02001_004E%2CB02001_005E%2CB02001_006E%2CB02001_007E%2CB02001_008E%2CB02001_009E%2CB02001_010E%2CB02008_001E%2CB02009_001E%2CB02010_001E%2CB02011_001E%2CB02012_001E%2CB02013_001E%2CB03003_003E%2CB03003_002E%2CB21001_001E%2CB01001_025E%2CB01001_049E&for=block+group%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-12 07:54:05 root     INFO     Responce Status Code:200
+2023-09-12 07:54:21 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\2018_ACS5_BLOCK_GROUP.csv
+
+2023-09-12 07:54:21 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-12 07:54:24 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-12 07:54:24 root     INFO     dataset parameter value:acs/acs5
+2023-09-12 07:54:24 root     INFO     block group parameter value:*
+2023-09-12 07:54:24 root     INFO     tract parameter value:*
+2023-09-12 07:54:24 root     INFO     county parameter value:*
+2023-09-12 07:54:24 root     INFO     state parameter value:35
+2023-09-12 07:54:24 root     INFO     year parameter value:2017
+2023-09-12 07:54:24 root     INFO     filename parameter value:2017_ACS5_BLOCK_GROUP
+2023-09-12 07:54:24 root     INFO     https://api.census.gov/data/2017/acs/acs5
+2023-09-12 07:54:24 root     INFO     {'get': 'NAME,B02001_002E,B02001_003E,B02001_004E,B02001_005E,B02001_006E,B02001_007E,B02001_008E,B02001_009E,B02001_010E,B02008_001E,B02009_001E,B02010_001E,B02011_001E,B02012_001E,B02013_001E,B03003_003E,B03003_002E,B21001_001E,B01001_025E,B01001_049E', 'for': 'block group:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-12 07:54:24 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-12 07:54:26 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2017/acs/acs5?get=NAME%2CB02001_002E%2CB02001_003E%2CB02001_004E%2CB02001_005E%2CB02001_006E%2CB02001_007E%2CB02001_008E%2CB02001_009E%2CB02001_010E%2CB02008_001E%2CB02009_001E%2CB02010_001E%2CB02011_001E%2CB02012_001E%2CB02013_001E%2CB03003_003E%2CB03003_002E%2CB21001_001E%2CB01001_025E%2CB01001_049E&for=block+group%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-12 07:54:27 root     INFO     Responce Status Code:200
+2023-09-12 07:54:42 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\2017_ACS5_BLOCK_GROUP.csv
+
+2023-09-12 07:54:42 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-12 07:54:45 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-12 07:54:45 root     INFO     dataset parameter value:acs/acs5
+2023-09-12 07:54:45 root     INFO     block group parameter value:*
+2023-09-12 07:54:45 root     INFO     tract parameter value:*
+2023-09-12 07:54:45 root     INFO     county parameter value:*
+2023-09-12 07:54:45 root     INFO     state parameter value:35
+2023-09-12 07:54:45 root     INFO     year parameter value:2016
+2023-09-12 07:54:45 root     INFO     filename parameter value:2016_ACS5_BLOCK_GROUP
+2023-09-12 07:54:45 root     INFO     https://api.census.gov/data/2016/acs/acs5
+2023-09-12 07:54:45 root     INFO     {'get': 'NAME,B02001_002E,B02001_003E,B02001_004E,B02001_005E,B02001_006E,B02001_007E,B02001_008E,B02001_009E,B02001_010E,B02008_001E,B02009_001E,B02010_001E,B02011_001E,B02012_001E,B02013_001E,B03003_003E,B03003_002E,B21001_001E,B01001_025E,B01001_049E', 'for': 'block group:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-12 07:54:45 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-12 07:54:48 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2016/acs/acs5?get=NAME%2CB02001_002E%2CB02001_003E%2CB02001_004E%2CB02001_005E%2CB02001_006E%2CB02001_007E%2CB02001_008E%2CB02001_009E%2CB02001_010E%2CB02008_001E%2CB02009_001E%2CB02010_001E%2CB02011_001E%2CB02012_001E%2CB02013_001E%2CB03003_003E%2CB03003_002E%2CB21001_001E%2CB01001_025E%2CB01001_049E&for=block+group%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-12 07:54:48 root     INFO     Responce Status Code:200
+2023-09-12 07:55:03 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\2016_ACS5_BLOCK_GROUP.csv
+
+2023-09-12 07:55:03 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
+2023-09-12 07:55:06 root     INFO     --------------------Fetching Census Data For ACS5 Process Started--------------------
+
+2023-09-12 07:55:06 root     INFO     dataset parameter value:acs/acs5
+2023-09-12 07:55:06 root     INFO     block group parameter value:*
+2023-09-12 07:55:06 root     INFO     tract parameter value:*
+2023-09-12 07:55:06 root     INFO     county parameter value:*
+2023-09-12 07:55:06 root     INFO     state parameter value:35
+2023-09-12 07:55:06 root     INFO     year parameter value:2015
+2023-09-12 07:55:06 root     INFO     filename parameter value:2015_ACS5_BLOCK_GROUP
+2023-09-12 07:55:06 root     INFO     https://api.census.gov/data/2015/acs/acs5
+2023-09-12 07:55:06 root     INFO     {'get': 'NAME,B02001_002E,B02001_003E,B02001_004E,B02001_005E,B02001_006E,B02001_007E,B02001_008E,B02001_009E,B02001_010E,B02008_001E,B02009_001E,B02010_001E,B02011_001E,B02012_001E,B02013_001E,B03003_003E,B03003_002E,B21001_001E,B01001_025E,B01001_049E', 'for': 'block group:*', 'in': 'state:35 county:*', 'key': '577fb555542f6a41c4765b88d9e848ce5ef12c5f'}
+2023-09-12 07:55:06 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.census.gov:443
+2023-09-12 07:55:09 urllib3.connectionpool DEBUG    https://api.census.gov:443 "GET /data/2015/acs/acs5?get=NAME%2CB02001_002E%2CB02001_003E%2CB02001_004E%2CB02001_005E%2CB02001_006E%2CB02001_007E%2CB02001_008E%2CB02001_009E%2CB02001_010E%2CB02008_001E%2CB02009_001E%2CB02010_001E%2CB02011_001E%2CB02012_001E%2CB02013_001E%2CB03003_003E%2CB03003_002E%2CB21001_001E%2CB01001_025E%2CB01001_049E&for=block+group%3A%2A&in=state%3A35+county%3A%2A&key=577fb555542f6a41c4765b88d9e848ce5ef12c5f HTTP/1.1" 200 None
+2023-09-12 07:55:09 root     INFO     Responce Status Code:200
+2023-09-12 07:55:25 root     INFO     Ouput file generated sucessfully in the following location:E:\RESPECPUB_ARPX_DoNotDelete\CensusProject\CensusDataOutputFiles\2015_ACS5_BLOCK_GROUP.csv
+
+2023-09-12 07:55:25 root     INFO     --------------------Fetching Census Data For ACS5 Process Completed--------------------
+
