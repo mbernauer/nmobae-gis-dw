@@ -43,11 +43,11 @@ def InsertDataFrameToTable(df,parGet,parBlockGroup,parTract,parCounty,parState,p
 
     # Create a Table(CensusData) If Not Exist.
 
-    #sqlCreateTableQry = "IF OBJECT_ID(N'CENSUSDATA', N'U') IS NULL BEGIN CREATE TABLE CENSUSDATA(NAME VARCHAR(MAX) NULL, YEAR INT NULL, FIPS VARCHAR(MAX) NULL, VARIABLE VARCHAR(50) NULL,VALUE decimal(18, 0) NULL) END;"
+    sqlCreateTableQry = "IF OBJECT_ID(N'CENSUSDATA', N'U') IS NULL BEGIN CREATE TABLE OBAERESPEC.CENSUSDATA(NAME VARCHAR(MAX) NULL, YEAR INT NULL, FIPS VARCHAR(MAX) NULL, VARIABLE VARCHAR(50) NULL,VALUE decimal(18, 0) NULL) END;"
 
-    #cursor.execute(sqlCreateTableQry)
-    #cnxn.commit()
-    #cursor.close()
+    cursor.execute(sqlCreateTableQry)
+    cnxn.commit()
+    cursor.close()
     cursor = cnxn.cursor()
 
     # Insert Dataframe into SQL Server:
@@ -60,9 +60,9 @@ def InsertDataFrameToTable(df,parGet,parBlockGroup,parTract,parCounty,parState,p
         if parCounty != "":
             valFIPS = valFIPS+row.county
         if parTract != "":
-            valFIPS = valFIPS+"/"+row.tract
+            valFIPS = valFIPS+row.tract
         if parBlockGroup != "":
-            valFIPS = valFIPS+"/"+row.values[6]
+            valFIPS = valFIPS+row.values[6]
 
         if len(parGet) > 1:
             for par in parGet:
