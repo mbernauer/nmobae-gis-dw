@@ -1,0 +1,108 @@
+﻿GROUP,name,label,concept,geography,NOTES,NOTES SOURCE
+incarcerated,B26001_001,Estimate!!Total,GROUP QUARTERS POPULATION,tract,"In the American Community Survey, tables with codes beginning with B261 also contain population counts and demographic details for the subcategory “Adult correctional facilities”; however this series of datasets are only available at the national, divisional, regional, and state level, from 2017 to 2019, for 1 year and 5-year estimates [Matt's note -- note that I don't know if that applies to 2015-2016, but that means in general, ACS isn't great for prison population data]",https://datadrivendetroit.org/blog/2022/03/11/2020-census-who-gets-counted-in-the-prison-population/
+incarcerated,B26101_001,Estimate!!Total,GROUP QUARTERS TYPE [3] BY SEX BY AGE,state,"In the American Community Survey, tables with codes beginning with B261 also contain population counts and demographic details for the subcategory “Adult correctional facilities”; however this series of datasets are only available at the national, divisional, regional, and state level, from 2017 to 2019, for 1 year and 5-year estimates [Matt's note -- note that I don't know if that applies to 2015-2016, but that means in general, ACS isn't great for prison population data]",https://datadrivendetroit.org/blog/2022/03/11/2020-census-who-gets-counted-in-the-prison-population/
+incarcerated,B26101_100,Estimate!!Total!!Group quarters population!!Institutionalized group quarters population!!Adult correctional facilities,GROUP QUARTERS TYPE [3] BY SEX BY AGE,state,"In the American Community Survey, tables with codes beginning with B261 also contain population counts and demographic details for the subcategory “Adult correctional facilities”; however this series of datasets are only available at the national, divisional, regional, and state level, from 2017 to 2019, for 1 year and 5-year estimates [Matt's note -- note that I don't know if that applies to 2015-2016, but that means in general, ACS isn't great for prison population data]",https://datadrivendetroit.org/blog/2022/03/11/2020-census-who-gets-counted-in-the-prison-population/
+race,B02001_001,Estimate!!Total,RACE,,NA,
+race,B02001_002,Estimate!!Total!!White alone,RACE,block group,NA,
+race,B02001_003,Estimate!!Total!!Black or African American alone,RACE,block group,NA,
+race,B02001_004,Estimate!!Total!!American Indian and Alaska Native alone,RACE,block group,NA,
+race,B02001_005,Estimate!!Total!!Asian alone,RACE,block group,NA,
+race,B02001_006,Estimate!!Total!!Native Hawaiian and Other Pacific Islander alone,RACE,block group,NA,
+race,B02001_007,Estimate!!Total!!Some other race alone,RACE,block group,NA,
+race,B02001_008,Estimate!!Total!!Two or more races,RACE,block group,NA,
+race,B02001_009,Estimate!!Total!!Two or more races!!Two races including Some other race,RACE,block group,NA,
+race,B02001_010,"Estimate!!Total!!Two or more races!!Two races excluding Some other race, and three or more races",RACE,block group,NA,
+race,B02008_001,Estimate!!Total,WHITE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES,block group,NA,
+race,B02009_001,Estimate!!Total,BLACK OR AFRICAN AMERICAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES,block group,NA,
+race,B02010_001,Estimate!!Total,AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES,block group,NA,
+race,B02011_001,Estimate!!Total,ASIAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES,block group,NA,
+race,B02012_001,Estimate!!Total,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES,block group,NA,
+race,B02013_001,Estimate!!Total,SOME OTHER RACE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES,block group,NA,
+race,B02014_001,Estimate!!Total,AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS,tract,NA,
+race,B03003_003,Estimate!!Total!!Hispanic or Latino,HISPANIC OR LATINO ORIGIN,block group,NA,
+race,B03003_002,Estimate!!Total!!Not Hispanic or Latino,HISPANIC OR LATINO ORIGIN,block group,NA,
+English ability,B16005_007,"Estimate!!Total!!Native!!Speak Spanish!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_008,"Estimate!!Total!!Native!!Speak Spanish!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_012,"Estimate!!Total!!Native!!Speak other Indo-European languages!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_013,"Estimate!!Total!!Native!!Speak other Indo-European languages!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_017,"Estimate!!Total!!Native!!Speak Asian and Pacific Island languages!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_018,"Estimate!!Total!!Native!!Speak Asian and Pacific Island languages!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_022,"Estimate!!Total!!Native!!Speak other languages!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_023,"Estimate!!Total!!Native!!Speak other languages!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_029,"Estimate!!Total!!Foreign born!!Speak Spanish!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_030,"Estimate!!Total!!Foreign born!!Speak Spanish!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_034,"Estimate!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_035,"Estimate!!Total!!Foreign born!!Speak other Indo-European languages!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_039,"Estimate!!Total!!Foreign born!!Speak Asian and Pacific Island languages!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_040,"Estimate!!Total!!Foreign born!!Speak Asian and Pacific Island languages!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_044,"Estimate!!Total!!Foreign born!!Speak other languages!!Speak English ""not well""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+English ability,B16005_045,"Estimate!!Total!!Foreign born!!Speak other languages!!Speak English ""not at all""",NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER,tract,Variables pulled from CDC SVI2020,https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/pdf/SVI2020Documentation_08.05.22.pdf
+veteran,B21001_001,Estimate!!Total,SEX BY AGE BY VETERAN STATUS FOR THE CIVILIAN POPULATION 18 YEARS AND OVER,block group,NA,
+aging,B01001A_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (WHITE ALONE),tract,aging variables need to be joined together,
+aging,B01001A_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (WHITE ALONE),tract,aging variables need to be joined together,
+aging,B01001A_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (WHITE ALONE),tract,aging variables need to be joined together,
+aging,B01001A_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (WHITE ALONE),tract,aging variables need to be joined together,
+aging,B01001A_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (WHITE ALONE),tract,aging variables need to be joined together,
+aging,B01001A_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (WHITE ALONE),tract,aging variables need to be joined together,
+aging,B01001B_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE),tract,aging variables need to be joined together,
+aging,B01001B_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE),tract,aging variables need to be joined together,
+aging,B01001B_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE),tract,aging variables need to be joined together,
+aging,B01001B_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE),tract,aging variables need to be joined together,
+aging,B01001B_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE),tract,aging variables need to be joined together,
+aging,B01001B_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE),tract,aging variables need to be joined together,
+aging,B01001C_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE),tract,aging variables need to be joined together,
+aging,B01001C_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE),tract,aging variables need to be joined together,
+aging,B01001C_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE),tract,aging variables need to be joined together,
+aging,B01001C_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE),tract,aging variables need to be joined together,
+aging,B01001C_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE),tract,aging variables need to be joined together,
+aging,B01001C_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE),tract,aging variables need to be joined together,
+aging,B01001D_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (ASIAN ALONE),tract,aging variables need to be joined together,
+aging,B01001D_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (ASIAN ALONE),tract,aging variables need to be joined together,
+aging,B01001D_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (ASIAN ALONE),tract,aging variables need to be joined together,
+aging,B01001D_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (ASIAN ALONE),tract,aging variables need to be joined together,
+aging,B01001D_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (ASIAN ALONE),tract,aging variables need to be joined together,
+aging,B01001D_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (ASIAN ALONE),tract,aging variables need to be joined together,
+aging,B01001E_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE),tract,aging variables need to be joined together,
+aging,B01001E_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE),tract,aging variables need to be joined together,
+aging,B01001E_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE),tract,aging variables need to be joined together,
+aging,B01001E_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE),tract,aging variables need to be joined together,
+aging,B01001E_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE),tract,aging variables need to be joined together,
+aging,B01001E_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE),tract,aging variables need to be joined together,
+aging,B01001F_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (SOME OTHER RACE ALONE),tract,aging variables need to be joined together,
+aging,B01001F_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (SOME OTHER RACE ALONE),tract,aging variables need to be joined together,
+aging,B01001F_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (SOME OTHER RACE ALONE),tract,aging variables need to be joined together,
+aging,B01001F_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (SOME OTHER RACE ALONE),tract,aging variables need to be joined together,
+aging,B01001F_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (SOME OTHER RACE ALONE),tract,aging variables need to be joined together,
+aging,B01001F_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (SOME OTHER RACE ALONE),tract,aging variables need to be joined together,
+aging,B01001G_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (TWO OR MORE RACES),tract,aging variables need to be joined together,
+aging,B01001G_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (TWO OR MORE RACES),tract,aging variables need to be joined together,
+aging,B01001G_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (TWO OR MORE RACES),tract,aging variables need to be joined together,
+aging,B01001G_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (TWO OR MORE RACES),tract,aging variables need to be joined together,
+aging,B01001G_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (TWO OR MORE RACES),tract,aging variables need to be joined together,
+aging,B01001G_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (TWO OR MORE RACES),tract,aging variables need to be joined together,
+aging,B01001H_014,Estimate!!Total!!Male!!65 to 74 years,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",tract,aging variables need to be joined together,
+aging,B01001H_015,Estimate!!Total!!Male!!75 to 84 years,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",tract,aging variables need to be joined together,
+aging,B01001H_016,Estimate!!Total!!Male!!85 years and over,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",tract,aging variables need to be joined together,
+aging,B01001H_029,Estimate!!Total!!Female!!65 to 74 years,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",tract,aging variables need to be joined together,
+aging,B01001H_030,Estimate!!Total!!Female!!75 to 84 years,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",tract,aging variables need to be joined together,
+aging,B01001H_031,Estimate!!Total!!Female!!85 years and over,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",tract,aging variables need to be joined together,
+aging,B01001I_014,Estimate!!Total!!Male!!65 to 74 years,SEX BY AGE (HISPANIC OR LATINO),tract,aging variables need to be joined together,
+aging,B01001I_015,Estimate!!Total!!Male!!75 to 84 years,SEX BY AGE (HISPANIC OR LATINO),tract,aging variables need to be joined together,
+aging,B01001I_016,Estimate!!Total!!Male!!85 years and over,SEX BY AGE (HISPANIC OR LATINO),tract,aging variables need to be joined together,
+aging,B01001I_029,Estimate!!Total!!Female!!65 to 74 years,SEX BY AGE (HISPANIC OR LATINO),tract,aging variables need to be joined together,
+aging,B01001I_030,Estimate!!Total!!Female!!75 to 84 years,SEX BY AGE (HISPANIC OR LATINO),tract,aging variables need to be joined together,
+aging,B01001I_031,Estimate!!Total!!Female!!85 years and over,SEX BY AGE (HISPANIC OR LATINO),tract,aging variables need to be joined together,
+aging,B01001_025,Estimate!!Total!!Male!!85 years and over,SEX BY AGE,block group,probably don't need this variable - I'd imagine the others cover it,
+aging,B01001_049,Estimate!!Total!!Female!!85 years and over,SEX BY AGE,block group,probably don't need this variable - I'd imagine the others cover it,
+disability,B18101_004,Estimate!!Total!!Male!!Under 5 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_007,Estimate!!Total!!Male!!5 to 17 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_010,Estimate!!Total!!Male!!18 to 34 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_013,Estimate!!Total!!Male!!35 to 64 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_016,Estimate!!Total!!Male!!65 to 74 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_019,Estimate!!Total!!Male!!75 years and over!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_023,Estimate!!Total!!Female!!Under 5 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_026,Estimate!!Total!!Female!!5 to 17 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_029,Estimate!!Total!!Female!!18 to 34 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_032,Estimate!!Total!!Female!!35 to 64 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_035,Estimate!!Total!!Female!!65 to 74 years!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
+disability,B18101_038,Estimate!!Total!!Female!!75 years and over!!With a disability,SEX BY AGE BY DISABILITY STATUS,tract,disability variables need to be joined together,
