@@ -1,0 +1,53 @@
+2015	DP05_0001E	Estimate!!SEX AND AGE!!Total population
+2016	DP05_0001E	Estimate!!SEX AND AGE!!Total population
+2017	DP05_0001E	Estimate!!SEX AND AGE!!Total population
+2018	DP05_0001E	Estimate!!SEX AND AGE!!Total population
+2019	DP05_0001E	Estimate!!SEX AND AGE!!Total population
+2020	DP05_0001E	Estimate!!SEX AND AGE!!Total population
+2021	DP05_0001E	Estimate!!SEX AND AGE!!Total population
+2015	DP03_0062E	Estimate!!INCOME AND BENEFITS (IN 2015 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+2016	DP03_0062E	Estimate!!INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+2017	DP03_0062E	Estimate!!INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+2018	DP03_0062E	Estimate!!INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+2019	DP03_0062E	Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+2020	DP03_0062E	Estimate!!INCOME AND BENEFITS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+2021	DP03_0062E	Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+2015	DP05_0017E	Estimate!!SEX AND AGE!!Median age (years)
+2016	DP05_0017E	Estimate!!SEX AND AGE!!Median age (years)
+2017	DP05_0018E	Estimate!!SEX AND AGE!!Median age (years)
+2017	DP05_0018E	Estimate!!SEX AND AGE!!Total population!!Median age (years)
+2018	DP05_0018E	Estimate!!SEX AND AGE!!Total population!!Median age (years)
+2019	DP05_0018E	Estimate!!SEX AND AGE!!Total population!!Median age (years)
+2020	DP05_0018E	Estimate!!SEX AND AGE!!Total population!!Median age (years)
+2021	DP05_0018E	Estimate!!SEX AND AGE!!Total population!!Median age (years)
+2015	DP02_0001E	Estimate!!HOUSEHOLDS BY TYPE!!Total households
+2016	DP02_0001E	Estimate!!HOUSEHOLDS BY TYPE!!Total households
+2017	DP02_0001E	Estimate!!HOUSEHOLDS BY TYPE!!Total households
+2018	DP02_0001E	Estimate!!HOUSEHOLDS BY TYPE!!Total households
+2019	DP02_0001E	Estimate!!HOUSEHOLDS BY TYPE!!Total households
+2020	DP02_0001E	Estimate!!HOUSEHOLDS BY TYPE!!Total households
+2021	DP02_0001E	Estimate!!HOUSEHOLDS BY TYPE!!Total households
+2015	DP02_0150E	Estimate!!COMPUTERS AND INTERNET USE!!Total households
+2015	DP02_0150E	Estimate!!COMPUTERS AND INTERNET USE!!Total Households
+2015	DP02_0151E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+2015	DP02_0151E	Estimate!!COMPUTERS AND INTERNET USE!!Total Households!!With a computer
+2015	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+2015	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total Households!!With a broadband Internet subscription
+2016	DP02_0150E	Estimate!!COMPUTERS AND INTERNET USE!!Total households
+2016	DP02_0151E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+2016	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+2017	DP02_0150E	Estimate!!COMPUTERS AND INTERNET USE!!Total households
+2017	DP02_0151E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+2017	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+2018	DP02_0150E	Estimate!!COMPUTERS AND INTERNET USE!!Total households
+2018	DP02_0151E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+2018	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+2019	DP02_0151E	Estimate!!COMPUTERS AND INTERNET USE!!Total households
+2019	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+2019	DP02_0153E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+2020	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total households
+2020	DP02_0153E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+2020	DP02_0154E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+2021	DP02_0152E	Estimate!!COMPUTERS AND INTERNET USE!!Total households
+2021	DP02_0153E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+2021	DP02_0154E	Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription

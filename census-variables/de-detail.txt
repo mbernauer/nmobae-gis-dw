@@ -1,0 +1,128 @@
+B24134_172E	Estimate!!Total!!Broadcasting (except internet)
+B24134_173E	Estimate!!Total!!Internet publishing and broadcasting and web search portals
+B24134_178E	Estimate!!Total!!Other information services, except libraries and archives, and internet publishing and broadcasting and web search portals
+B24135_172E	Estimate!!Total!!Broadcasting (except internet)
+B24135_173E	Estimate!!Total!!Internet publishing and broadcasting and web search portals
+B24135_178E	Estimate!!Total!!Other information services, except libraries and archives, and internet publishing and broadcasting and web search portals
+B24136_172E	Estimate!!Total!!Broadcasting (except internet)
+B24136_173E	Estimate!!Total!!Internet publishing and broadcasting and web search portals
+B24136_178E	Estimate!!Total!!Other information services, except libraries and archives, and internet publishing and broadcasting and web search portals
+B28002_002E	Estimate!!Total:!!With an Internet subscription
+B28002_003E	Estimate!!Total:!!With an Internet subscription!!Dial-up with no other type of Internet subscription
+B28002_004E	Estimate!!Total:!!With an Internet subscription!!Broadband of any type
+B28002_005E	Estimate!!Total:!!With an Internet subscription!!Cellular data plan
+B28002_006E	Estimate!!Total:!!With an Internet subscription!!Cellular data plan!!Cellular data plan with no other type of Internet subscription
+B28002_007E	Estimate!!Total:!!With an Internet subscription!!Broadband such as cable, fiber optic or DSL
+B28002_008E	Estimate!!Total:!!With an Internet subscription!!Broadband such as cable, fiber optic or DSL!!Broadband such as cable, fiber optic or DSL with no other type of Internet subscription
+B28002_009E	Estimate!!Total:!!With an Internet subscription!!Satellite Internet service
+B28002_010E	Estimate!!Total:!!With an Internet subscription!!Satellite Internet service!!Satellite Internet service with no other type of Internet subscription
+B28002_011E	Estimate!!Total:!!With an Internet subscription!!Other service with no other type of Internet subscription
+B28002_012E	Estimate!!Total:!!Internet access without a subscription
+B28002_013E	Estimate!!Total:!!No Internet access
+B28003_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28003_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28003_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28004_003E	Estimate!!Total:!!Less than $10,000:!!With dial-up Internet subscription alone
+B28004_004E	Estimate!!Total:!!Less than $10,000:!!With a broadband Internet subscription
+B28004_005E	Estimate!!Total:!!Less than $10,000:!!Without an Internet subscription
+B28004_007E	Estimate!!Total:!!$10,000 to $19,999:!!With dial-up Internet subscription alone
+B28004_008E	Estimate!!Total:!!$10,000 to $19,999:!!With a broadband Internet subscription
+B28004_009E	Estimate!!Total:!!$10,000 to $19,999:!!Without an Internet subscription
+B28004_011E	Estimate!!Total:!!$20,000 to $34,999:!!With dial-up Internet subscription alone
+B28004_012E	Estimate!!Total:!!$20,000 to $34,999:!!With a broadband Internet subscription
+B28004_013E	Estimate!!Total:!!$20,000 to $34,999:!!Without an Internet subscription
+B28004_015E	Estimate!!Total:!!$35,000 to $49,999:!!With dial-up Internet subscription alone
+B28004_016E	Estimate!!Total:!!$35,000 to $49,999:!!With a broadband Internet subscription
+B28004_017E	Estimate!!Total:!!$35,000 to $49,999:!!Without an Internet subscription
+B28004_019E	Estimate!!Total:!!$50,000 to $74,999:!!With dial-up Internet subscription alone
+B28004_020E	Estimate!!Total:!!$50,000 to $74,999:!!With a broadband Internet subscription
+B28004_021E	Estimate!!Total:!!$50,000 to $74,999:!!Without an Internet subscription
+B28004_023E	Estimate!!Total:!!$75,000 or more:!!With dial-up Internet subscription alone
+B28004_024E	Estimate!!Total:!!$75,000 or more:!!With a broadband Internet subscription
+B28004_025E	Estimate!!Total:!!$75,000 or more:!!Without an Internet subscription
+B28005_004E	Estimate!!Total:!!Under 18 years:!!Has a computer:!!With dial-up Internet subscription alone
+B28005_005E	Estimate!!Total:!!Under 18 years:!!Has a computer:!!With a broadband Internet subscription
+B28005_006E	Estimate!!Total:!!Under 18 years:!!Has a computer:!!Without an Internet subscription
+B28005_010E	Estimate!!Total:!!18 to 64 years:!!Has a computer:!!With dial-up Internet subscription alone
+B28005_011E	Estimate!!Total:!!18 to 64 years:!!Has a computer:!!With a broadband Internet subscription
+B28005_012E	Estimate!!Total:!!18 to 64 years:!!Has a computer:!!Without an Internet subscription
+B28005_016E	Estimate!!Total:!!65 years and over:!!Has a computer:!!With dial-up Internet subscription alone
+B28005_017E	Estimate!!Total:!!65 years and over:!!Has a computer:!!With a broadband Internet subscription
+B28005_018E	Estimate!!Total:!!65 years and over:!!Has a computer:!!Without an Internet subscription
+B28006_004E	Estimate!!Total:!!Less than high school graduate or equivalency:!!Has a computer:!!With dial-up Internet subscription alone
+B28006_005E	Estimate!!Total:!!Less than high school graduate or equivalency:!!Has a computer:!!With a broadband Internet subscription
+B28006_006E	Estimate!!Total:!!Less than high school graduate or equivalency:!!Has a computer:!!Without an Internet subscription
+B28006_010E	Estimate!!Total:!!High school graduate (includes equivalency) , some college or associate's degree :!!Has a computer:!!With dial-up Internet subscription alone
+B28006_011E	Estimate!!Total:!!High school graduate (includes equivalency) , some college or associate's degree :!!Has a computer:!!With a broadband Internet subscription
+B28006_012E	Estimate!!Total:!!High school graduate (includes equivalency) , some college or associate's degree :!!Has a computer:!!Without an Internet subscription
+B28006_016E	Estimate!!Total:!!Bachelor's degree or higher:!!Has a computer:!!With dial-up Internet subscription alone
+B28006_017E	Estimate!!Total:!!Bachelor's degree or higher:!!Has a computer:!!With a broadband Internet subscription
+B28006_018E	Estimate!!Total:!!Bachelor's degree or higher:!!Has a computer:!!Without an Internet subscription
+B28007_005E	Estimate!!Total:!!In the civilian labor force:!!Employed:!!Has a computer:!!With dial-up Internet subscription alone
+B28007_006E	Estimate!!Total:!!In the civilian labor force:!!Employed:!!Has a computer:!!With a broadband Internet subscription
+B28007_007E	Estimate!!Total:!!In the civilian labor force:!!Employed:!!Has a computer:!!Without an Internet subscription
+B28007_011E	Estimate!!Total:!!In the civilian labor force:!!Unemployed:!!Has a computer:!!With dial-up Internet subscription alone
+B28007_012E	Estimate!!Total:!!In the civilian labor force:!!Unemployed:!!Has a computer:!!With a broadband Internet subscription
+B28007_013E	Estimate!!Total:!!In the civilian labor force:!!Unemployed:!!Has a computer:!!Without an Internet subscription
+B28007_017E	Estimate!!Total:!!Not in labor force:!!Has a computer:!!With dial-up Internet subscription alone
+B28007_018E	Estimate!!Total:!!Not in labor force:!!Has a computer:!!With a broadband Internet subscription
+B28007_019E	Estimate!!Total:!!Not in labor force:!!Has a computer:!!Without an Internet subscription
+B28008_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28008_005E	Estimate!!Total:!!Has a computer:!!With a broadband subscription:!!With a fixed broadband Internet subscription:
+B28008_006E	Estimate!!Total:!!Has a computer:!!With a broadband subscription:!!With a fixed broadband Internet subscription:!!With a cellular data plan
+B28008_007E	Estimate!!Total:!!Has a computer:!!With a broadband subscription:!!With a fixed broadband Internet subscription:!!Without a cellular data plan
+B28008_009E	Estimate!!Total:!!Has a computer:!!Without Internet subscription
+B28009A_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009A_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009A_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009B_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009B_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009B_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009C_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009C_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009C_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009D_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009D_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009D_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009E_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009E_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009E_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009F_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009F_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009F_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009G_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009G_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009G_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009H_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009H_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009H_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28009I_003E	Estimate!!Total:!!Has a computer:!!With dial-up Internet subscription alone
+B28009I_004E	Estimate!!Total:!!Has a computer:!!With a broadband Internet subscription
+B28009I_005E	Estimate!!Total:!!Has a computer:!!Without an Internet subscription
+B28011_002E	Estimate!!Total:!!With an Internet subscription
+B28011_003E	Estimate!!Total:!!With an Internet subscription!!Dial-up alone
+B28011_004E	Estimate!!Total:!!With an Internet subscription!!Broadband such as cable, fiber optic, or DSL
+B28011_005E	Estimate!!Total:!!With an Internet subscription!!Satellite Internet service
+B28011_006E	Estimate!!Total:!!With an Internet subscription!!Other service
+B28011_007E	Estimate!!Total:!!Internet access without a subscription
+B28011_008E	Estimate!!Total:!!No Internet access
+B28012_005E	Estimate!!Total:!!Population 3 and older!!Enrolled in school:!!Pre-K to 4th Grade!!Has a computer and internet subscription
+B28012_008E	Estimate!!Total:!!Population 3 and older!!Enrolled in school:!!5th to 8th Grade!!Has a computer and internet subscription
+B28012_011E	Estimate!!Total:!!Population 3 and older!!Enrolled in school:!!9th to 12th Grade!!Has a computer and internet subscription
+B28012_014E	Estimate!!Total:!!Population 3 and older!!Enrolled in school:!!Undergraduate or Higher!!Has a computer and internet subscription
+B28012_017E	Estimate!!Total:!!Population 3 and older!!Not Enrolled in school:!!Has a computer and internet subscription
+B28012_020E	Estimate!!Total:!!Population 2 and under:!!Has a computer and internet subscription
+B28001_002E	Estimate!!Total:!!Has one or more types of computing devices:
+B28001_003E	Estimate!!Total:!!Has one or more types of computing devices:!!Desktop or laptop
+B28001_004E	Estimate!!Total:!!Has one or more types of computing devices:!!Desktop or laptop!!Desktop or laptop with no other type of computing device
+B28001_005E	Estimate!!Total:!!Has one or more types of computing devices:!!Smartphone
+B28001_006E	Estimate!!Total:!!Has one or more types of computing devices:!!Smartphone!!Smartphone with no other type of computing device
+B28001_007E	Estimate!!Total:!!Has one or more types of computing devices:!!Tablet or other portable wireless computer
+B28001_008E	Estimate!!Total:!!Has one or more types of computing devices:!!Tablet or other portable wireless computer!!Tablet or other portable wireless computer with no other type of computing device
+B28001_009E	Estimate!!Total:!!Has one or more types of computing devices:!!Other computer
+B28001_010E	Estimate!!Total:!!Has one or more types of computing devices:!!Other computer!!Other computer with no other type of computing device
+B28010_002E	Estimate!!Total:!!Has one or more types of computing devices:
+B28010_003E	Estimate!!Total:!!Has one or more types of computing devices:!!Desktop or laptop
+B28010_004E	Estimate!!Total:!!Has one or more types of computing devices:!!Desktop or laptop!!Desktop or laptop alone
+B28010_005E	Estimate!!Total:!!Has one or more types of computing devices:!!Smartphone, tablet or other portable wireless computer or other computer
+B28010_006E	Estimate!!Total:!!Has one or more types of computing devices:!!Smartphone, tablet or other portable wireless computer or other computer!!Smartphone, tablet or other portable wireless computer or other computer, no desktop or laptop
